@@ -11,5 +11,4 @@
 * If you want to use parts of any code of mine:
 * let me know and
 * use it!
-**********************************************************************/
-	Guide: ./Copy ~/Desktop ~/Desktop/file
+* Guide: ./Copy ~/Desktop ~/Desktop/file
